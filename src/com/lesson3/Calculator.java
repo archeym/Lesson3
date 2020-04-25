@@ -1,6 +1,11 @@
 package com.lesson3;
 //perform simple calculation using methods
 //declare class calculator
+//perform simple calculation using methods
+//declare class calculator
+//perform simple calculation using methods
+//declare class calculator
+
 public class Calculator {
 	//declare instance variables to store result of
 	 private double result;
